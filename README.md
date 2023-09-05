@@ -1,1 +1,1 @@
-# Embedded_Linux_Pablo_A7
+# Embedded_Linux_Pablo_A7_Shared_Memory
